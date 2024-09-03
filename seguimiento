@@ -1,0 +1,16 @@
+- Coneccion a la base de datos desde la compu de Delfi.
+- Comenzar a entender django
+- Comenzar a entender python
+
+
+COMANDOS IMPORTANTES:
+- Para conectar a mysql:
+	mysql -u root -p
+
+para hacer una app create app
+-views.py()<funciones
+-models.py tablas de un bd
+-url.py por donde tengo que acceder apra que se ejecute esta  view.
+
+cada tabla tiene una app
+
