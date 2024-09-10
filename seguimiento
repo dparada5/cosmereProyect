@@ -14,3 +14,14 @@ para hacer una app create app
 
 cada tabla tiene una app
 
+
+GITHUB:
+
+- git checkout front(para cambiar a la rama front)
+- git branch (para ver cuantas ramas hay)
+
+- git add .
+- git commit -m ""
+- git push origin front (para subir las cosas a la rama front)
+
+- git pull origin front(para bajarte las cosas de front)
