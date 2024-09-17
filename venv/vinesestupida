@@ -1,0 +1,4 @@
+pregunta :
+
+quiero hacer una pagina web que tenga acceso a una base de datos de mysql con frases de personajes de libros. La pagina web deberá tener un sistema de etiquetas donde se puedan seleccionar personajes o libros y que aparezcan las frases que tengan esas etiquetas. Deberá tener usuarios que puedan dejar comentarios y likes a las frases que estén publicas. Cada usuario puede tener una lista privada de las frases que le gusten. La pagina tendrá estadisticas sobre los personajes y los libros con mas frases y con las mas gustadas. Los usuarios podran meter sus propias frases dentro de la base de datos si recibe permiso de un administrador si se quiere añadir a la base de datos publica. El proyecto esta pensado inicialmente para hacerse en sql, python y html. La base de datos ya está conectada a django ¿Que pasos tenemos que seguir y como podemos dividir el trabajo entre 2?
+
